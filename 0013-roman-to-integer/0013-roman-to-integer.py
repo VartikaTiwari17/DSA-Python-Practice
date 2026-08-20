@@ -1,18 +1,12 @@
-class Solution(object):
-    def romanToInt(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        values = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
-        
-        total = 0
-        n = len(s)
-        
-        for i in range(n):
-            if i < n - 1 and values[s[i]] < values[s[i + 1]]:
-                total -= values[s[i]]
+class Solution:
+    def resultArray(self, nums):
+        arr1 = [nums[0]]
+        arr2 = [nums[1]]
+
+        for i in range(2, len(nums)):
+            if arr1[-1] > arr2[-1]:
+                arr1.append(nums[i])
             else:
-                total += values[s[i]]
-        
-        return total
+                arr2.append(nums[i])
+
+        return arr1 + arr2
