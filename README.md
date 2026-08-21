@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0029-divide-two-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
