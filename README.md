@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0066-plus-one) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
