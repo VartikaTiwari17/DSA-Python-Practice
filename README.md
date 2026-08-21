@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0031-next-permutation) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
