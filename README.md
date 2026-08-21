@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
