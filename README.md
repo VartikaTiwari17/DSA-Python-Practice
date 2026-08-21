@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -310,8 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
