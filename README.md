@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
