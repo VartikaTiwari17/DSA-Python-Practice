@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0057-insert-interval) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
