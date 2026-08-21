@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0039-combination-sum) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0039-combination-sum) |
 ## Stack
 |  |
 | ------- |
