@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Trie
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
