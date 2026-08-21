@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 ## Combinatorics
 |  |
 | ------- |
