@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0063-unique-paths-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0063-unique-paths-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
