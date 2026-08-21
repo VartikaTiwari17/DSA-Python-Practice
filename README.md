@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 ## Combinatorics
 |  |
 | ------- |
