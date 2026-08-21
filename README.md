@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0045-jump-game-ii) |
 ## Manacher
 |  |
 | ------- |
