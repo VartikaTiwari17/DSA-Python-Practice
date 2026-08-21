@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
