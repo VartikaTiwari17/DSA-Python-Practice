@@ -138,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0076-minimum-window-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
