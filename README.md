@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
