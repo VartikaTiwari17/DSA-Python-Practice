@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0087-scramble-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0087-scramble-string) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
