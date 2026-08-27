@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0088-merge-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0088-merge-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
