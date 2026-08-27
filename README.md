@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
