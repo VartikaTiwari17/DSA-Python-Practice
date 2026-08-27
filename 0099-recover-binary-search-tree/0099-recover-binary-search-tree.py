@@ -1,0 +1,35 @@
+class Solution:
+    def recoverTree(self, root):
+
+        stack = []
+        current = root
+
+        first = None
+        second = None
+        prev = None
+
+        while current or stack:
+
+            # Go left
+            while current:
+                stack.append(current)
+                current = current.left
+
+            # Visit node
+            current = stack.pop()
+
+            # Find wrong order
+            if prev and prev.val > current.val:
+
+                if first is None:
+                    first = prev
+
+                second = current
+
+            prev = current
+
+            # Go right
+            current = current.right
+
+        # Swap values
+        first.val, second.val = second.val, first.val
