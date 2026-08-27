@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Minimax
 |  |
 | ------- |
@@ -404,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
