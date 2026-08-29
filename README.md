@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0088-merge-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
