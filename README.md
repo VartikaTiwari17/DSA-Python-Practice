@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
 | ------- |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
