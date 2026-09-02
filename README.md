@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0096-unique-binary-search-trees) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3875-construct-uniform-parity-array-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
