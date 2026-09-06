@@ -1,13 +1,22 @@
 class Solution:
-    def numDistinct(self, s, t):
-        m = len(t)
+    def numDistinct(self, s: str, t: str) -> int:
+        m = len(s)
+        n = len(t)
 
-        dp = [0] * (m + 1)
-        dp[0] = 1
+        dp = [[0] * (n + 1) for _ in range(m + 1)]
 
-        for ch in s:
-            for j in range(m, 0, -1):
-                if ch == t[j - 1]:
-                    dp[j] += dp[j - 1]
+        # Empty t can be formed in exactly 1 way
+        for i in range(m + 1):
+            dp[i][0] = 1
 
-        return dp[m]
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+
+                # Skip current character of s
+                dp[i][j] = dp[i - 1][j]
+
+                # Use current character if it matches
+                if s[i - 1] == t[j - 1]:
+                    dp[i][j] += dp[i - 1][j - 1]
+
+        return dp[m][n]
