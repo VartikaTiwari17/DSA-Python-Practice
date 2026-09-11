@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0060-permutation-sequence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Tree
