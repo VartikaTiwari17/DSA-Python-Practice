@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
