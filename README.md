@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
