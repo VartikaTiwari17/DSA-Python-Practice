@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -581,4 +582,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
