@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
