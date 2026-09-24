@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0134-gas-station) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
