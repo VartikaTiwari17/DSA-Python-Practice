@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -633,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
