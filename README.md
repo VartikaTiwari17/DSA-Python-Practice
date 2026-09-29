@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0940-distinct-subsequences-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0940-distinct-subsequences-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -647,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
