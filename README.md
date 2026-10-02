@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Segment Tree
@@ -667,4 +671,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
