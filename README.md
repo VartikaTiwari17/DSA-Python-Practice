@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
