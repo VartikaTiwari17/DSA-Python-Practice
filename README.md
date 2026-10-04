@@ -687,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
