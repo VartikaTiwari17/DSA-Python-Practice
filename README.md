@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
