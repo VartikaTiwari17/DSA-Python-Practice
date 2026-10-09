@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
@@ -720,4 +723,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
