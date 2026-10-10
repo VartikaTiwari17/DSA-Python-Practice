@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -734,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0127-word-ladder) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
