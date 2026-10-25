@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
+| [1254-number-of-closed-islands](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
@@ -735,12 +738,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
