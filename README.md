@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0149-max-points-on-a-line) |
 | [1096-brace-expansion-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0141-linked-list-cycle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -835,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/VartikaTiwari17/DSA-Python-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
